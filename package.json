@@ -1,0 +1,11 @@
+{
+  "name": "binarysearch",
+  "version": "1.0.0",
+  "description": "This package allows you to search in a sorted array in log(n) time.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aadarsh Raj",
+  "license": "ISC"
+}
