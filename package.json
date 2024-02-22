@@ -1,7 +1,7 @@
 {
-  "name": "binarysearch",
+  "name": "aryabinarysearch",
   "version": "1.0.0",
-  "description": "This package allows you to search in a sorted array in log(n) time.",
+  "description": "This package allows you to search with binary method.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
